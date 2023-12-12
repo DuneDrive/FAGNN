@@ -1,4 +1,4 @@
-# FAGNN
+# Feature Attention Graph Neural Network (FAGNN)
 
 ### Feature attention graph neural network for estimating brain age and identifying important neural connections in mouse models of genetic risk for Alzheimer’s disease
 
@@ -14,6 +14,11 @@ An implementation of FAGNN using diffusion MRI-based structural connectomes, bio
 
 ## Usage
 ### Setup
+Clone this repository to your local machine and install packages:
+```
+pip install -r requirements.txt
+```
+
 
 ### Dataset
 
