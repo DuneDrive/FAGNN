@@ -20,6 +20,3 @@ pip install -r requirements.txt
 ```
 
 
-## Note
-The repository will be updated once the paper is accepted.
-
