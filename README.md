@@ -20,7 +20,6 @@ pip install -r requirements.txt
 ```
 
 
-### Dataset
-
-### Citation
+### Note
+The repository will be updated once the paper is accepted.
 
