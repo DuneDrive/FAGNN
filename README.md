@@ -4,7 +4,7 @@
 
 Hae Sol Moon, Ali Mahzarnia, Jacques Stout, Robert J Anderson, Cristian T. Badea, Alexandra Badea
 
-[Link to preprint (doi: 10.1101/2023.12.13.571574)]([url](https://doi.org/10.1101/2023.12.13.571574))
+[Link to preprint (doi: 10.1101/2023.12.13.571574)](https://doi.org/10.1101/2023.12.13.571574)
 
 <img width="800" alt="FAGNN_schematics_v4" src="https://github.com/DuneDrive/FAGNN/assets/70248584/4cf35f49-37ad-4451-8216-f4ab4c5bab7a">
 
