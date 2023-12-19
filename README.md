@@ -20,4 +20,18 @@ Clone this repository to your local machine and install packages:
 pip install -r requirements.txt
 ```
 
+### Data Download
+Download data used in the paper at:
+[https://zenodo.org/records/10372075](https://zenodo.org/records/10372075).
+Alternatively, use your customized data.
 
+### Training
+For customization, modify `model_FAGNN.py` based on your data.
+Then run this code to train the model:
+
+```
+python train_FAGNN.py
+```
+
+### Additional Information
+For queries or issues, please contact: `<haesol.moon@duke.edu>`
