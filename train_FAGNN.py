@@ -11,8 +11,10 @@ from sklearn.metrics import confusion_matrix, classification_report
 from datetime import datetime
 
 # local imports
+
+from net.model_FAGNN import FAGNN
+
 from imports.ABIDEDataset_cont import ABIDEDataset
-from net.FAGNN_age_comp5 import FAGNN
 from imports.utils import train_val_test_split
 #from imports.important_node_finder_genotype import node_finder
 
