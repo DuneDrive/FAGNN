@@ -26,7 +26,7 @@ Download data used in the paper at:
 Alternatively, use your customized data.
 
 ### Training
-For customization, modify `net/model_FAGNN.py` based on your data.
+For customization, modify `net/model_FAGNN.py` based on your data. Modify line 31 of the code to define your data directory.
 Then run this code to train the model:
 
 ```
